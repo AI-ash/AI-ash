@@ -1,5 +1,3 @@
-# 💫 About Me:
-
 # Hi there! 👋 I'm **Ashish Sharma** 
 
 ## 👨‍💻 About Me
