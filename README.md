@@ -1,7 +1,4 @@
 # 💫 About Me:
-Here's a "cooler" version of your GitHub **About Me** section with some emoji and Markdown styling to give it more personality:
-
----
 
 # Hi there! 👋 I'm **Ashish Sharma**
 
@@ -20,8 +17,7 @@ I believe in the magic of **learning by doing**. Every project is a new adventur
 ### 📈 What’s Next:
 I’m diving deeper into web development and aiming to make my mark in the tech industry. Always up for collaborating on new projects—let’s connect and create something amazing! 🤝
 
-
-
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0.ashish.0) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17043304) 
@@ -35,10 +31,10 @@ I’m diving deeper into web development and aiming to make my mark in the tech 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ai-ash&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
-
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+---
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ai-ash&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
