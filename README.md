@@ -7,8 +7,8 @@
 I'm a passionate **tech enthusiast** and second-year student at **Atma Ram Sanatan Dharma College**. 🚀 Currently exploring the endless world of technology, I’m building skills and creating awesome projects along the way!
 
 ### 🌟 What I Do:
-- **Languages**: Python, C++, HTML, a touch of CSS 🌐
-- **Currently Working On**: Building my personal portfolio website 💻
+- **Languages**: Python, C++, HTML, a touch of CSS, more on the way...🌐
+- **Currently Working On**: Building my personal portfolio website, working to build my self. 💻
 - **Strengths**: Data Structures & Algorithms, Creative Editing 🧠
 
 ### 💡 Fun Fact:
