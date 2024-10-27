@@ -1,10 +1,10 @@
 # 💫 About Me:
 
-# Hi there! 👋 I'm **Ashish Sharma**
+# Hi there! 👋 I'm **Ashish Sharma** 
 
 ## 👨‍💻 About Me
 
-I'm a passionate **tech enthusiast** and second-year student at **Atma Ram Sanatan Dharma College**. 🚀 Currently exploring the endless world of technology, I’m building skills and creating awesome projects along the way!
+I'm a passionate **tech enthusiast** and ash second-year student at **Atma Ram Sanatan Dharma College**. 🚀 Currently exploring the endless world of technology, I’m building skills and creating awesome projects along the way!
 
 ### 🌟 What I Do:
 - **Languages**: Python, C++, HTML, a touch of CSS 🌐
@@ -41,4 +41,4 @@ I’m diving deeper into web development and aiming to make my mark in the tech 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ai-ash&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
