@@ -3,7 +3,7 @@ Here's a "cooler" version of your GitHub **About Me** section with some emoji an
 
 ---
 
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm **Ashish Sharma**
 
 ## 👨‍💻 About Me
 
