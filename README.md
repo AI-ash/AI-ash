@@ -2,10 +2,10 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **tech enthusiast** and second-year student at **Atma Ram Sanatan Dharma College**. 🚀 Currently exploring the endless world of technology, I’m building skills and creating awesome projects along the way!
+I'm a passionate **tech enthusiast** and third-year student at **Atma Ram Sanatan Dharma College**. 🚀 Currently exploring the endless world of technology, I’m building skills and creating awesome projects along the way!
 
 ### 🌟 What I Do:
-- **Languages**: Python, C++, HTML, a touch of CSS, more on the way...🌐
+- **Languages**: Python, C++, HTML, CSS, JS more on the way...🌐
 - **Currently Working On**: Building my personal portfolio website, working to build my self. 💻
 - **Strengths**: Data Structures & Algorithms, Creative Editing 🧠
 
@@ -27,7 +27,6 @@ I’m diving deeper into web development and aiming to make my mark in the tech 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-%23FF6F61.svg?style=plastic)
 ![Algorithms](https://img.shields.io/badge/Algorithms-%234CAF50.svg?style=plastic)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)
 
