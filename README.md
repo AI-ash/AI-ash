@@ -36,7 +36,9 @@ I’m a **tech enthusiast** and a 3rd-year student at **Atma Ram Sanatan Dharma 
 - 🧠 **Exploring**: Full-stack web development, machine learning, and open-source contributions
 - 🎯 **Coming**: Land an internship or full-time dev role with impactful tech projects
 
-![Developer](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDA3Y2ozbzhpeDViN2tlbWtnZzBsbTRqN3hpajY5NG5sMDZxd3R4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f7omQNmgiyjj5sffvZ/giphy.gif)
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDA3Y2ozbzhpeDViN2tlbWtnZzBsbTRqN3hpajY5NG5sMDZxd3R4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f7omQNmgiyjj5sffvZ/giphy.gif" width="300" />
+</p>
 
 ---
 
@@ -53,6 +55,7 @@ I’m a **tech enthusiast** and a 3rd-year student at **Atma Ram Sanatan Dharma 
 ---
 
 ## ✨ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
@@ -79,5 +82,6 @@ I’m a **tech enthusiast** and a 3rd-year student at **Atma Ram Sanatan Dharma 
 > “Coding is not just a skill, it’s an **adventure**. Every bug is a mystery, and every solution is a victory!” 🎯
 
 ---
-
-![Thank You](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHk5dTI3d3gxcHk3MjU4OHBhbmE5NWw0ODZ2NndsN2QwaGw3cGdlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MbCh4dn4bUq1JZdtEz/giphy.gif)
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHk5dTI3d3gxcHk3MjU4OHBhbmE5NWw0ODZ2NndsN2QwaGw3cGdlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MbCh4dn4bUq1JZdtEz/giphy.gif" width="300" />
+</p>
