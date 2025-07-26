@@ -74,7 +74,7 @@ I’m a **tech enthusiast** and a 3rd-year student at **Atma Ram Sanatan Dharma 
 ---
 
 ## 👀 Profile Views
-[![](https://komarev.com/ghpvc/?username=AI-ash&color=blue)
+![](https://komarev.com/ghpvc/?username=AI-ash&color=blue)
 
 ---
 
