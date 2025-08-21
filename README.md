@@ -82,6 +82,14 @@ I’m a **tech enthusiast** and a 3rd-year student at **Atma Ram Sanatan Dharma 
 > “Coding is not just a skill, it’s an **adventure**. Every bug is a mystery, and every solution is a victory!” 🎯
 
 ---
+
+---
+<p align="center">
+  <a href="https://www.buymeacoffee.com/ai_ash" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee" />
+  </a>
+</p>
+---
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHk5dTI3d3gxcHk3MjU4OHBhbmE5NWw0ODZ2NndsN2QwaGw3cGdlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MbCh4dn4bUq1JZdtEz/giphy.gif" width="300" />
 </p>
