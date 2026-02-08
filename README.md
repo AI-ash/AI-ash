@@ -3,11 +3,24 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdyamkyNDd2YjNrbnljeHNwNmUycDZ2NjZ2em04enNteHp0OTEzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/igRW3jH2LcCVzMqi5F/giphy.gif" width="300" />
 </p>
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I’m a **tech enthusiast** and a 3rd-year student at **Atma Ram Sanatan Dharma College**, Delhi University. Currently exploring the ever-expanding world of tech, one line of code at a time. 🧠💻
+I build **production‑ready AI systems, LLM apps, and scalable backend platforms**.
+Focused on turning AI ideas into real, usable products.
 
-### ⚡️ What Drives Me:
+* 🤖 Generative AI & LLM Applications
+* ⚙️ FastAPI & Scalable Backend Systems
+* 🧠 AI Assistants, RAG Pipelines & Automation
+* 🏗️ Building real products, not demos
+
+## 🏆 Highlights
+
+* Co‑Founder & CTO — **pyTan**
+* Technical Lead — **Tech‑A‑Thon (ARSD)**
+* Former **SDE Intern — Codeunia**
+* Built multiple **end‑to‑end AI systems**
+
+## ⚡️ What Drives Me:
 - The belief in **“learning by doing”** 🔁
 - Turning ideas into **real-world solutions** through code and creativity
 - Always eager to **collaborate**, explore, and grow!
@@ -31,11 +44,6 @@ I’m a **tech enthusiast** and a 3rd-year student at **Atma Ram Sanatan Dharma 
 
 ---
 
-## 🚀 Projects & Goals:
-- ✨ **Currently Working On**: My personal **portfolio website** and a **voice-based AI assistant**
-- 🧠 **Exploring**: Full-stack web development, machine learning, and open-source contributions
-- 🎯 **Coming**: Land an internship or full-time dev role with impactful tech projects
-
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDA3Y2ozbzhpeDViN2tlbWtnZzBsbTRqN3hpajY5NG5sMDZxd3R4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f7omQNmgiyjj5sffvZ/giphy.gif" width="300" />
 </p>
@@ -43,9 +51,9 @@ I’m a **tech enthusiast** and a 3rd-year student at **Atma Ram Sanatan Dharma 
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ai-ash&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ai-ash&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ai-ash&theme=tokyonight&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AI-ash&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AI-ash&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AI-ash&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
@@ -67,9 +75,9 @@ I’m a **tech enthusiast** and a 3rd-year student at **Atma Ram Sanatan Dharma 
 
 ## 🌐 Let's Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0.ashish.0)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17043304)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Ai-ash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://linkedin.com/in/ashish-sharma-ai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel\&logoColor=white)](https://iamashish.live)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:ai.ashishsharma@gmail.com)
 
 ---
 
@@ -91,3 +99,4 @@ I’m a **tech enthusiast** and a 3rd-year student at **Atma Ram Sanatan Dharma 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHk5dTI3d3gxcHk3MjU4OHBhbmE5NWw0ODZ2NndsN2QwaGw3cGdlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MbCh4dn4bUq1JZdtEz/giphy.gif" width="300" />
 </p>
+
