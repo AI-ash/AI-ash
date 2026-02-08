@@ -50,7 +50,7 @@ I’m a **tech enthusiast** and a 3rd-year student at **Atma Ram Sanatan Dharma 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ai-ash&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=AI-ash)
 
 ---
 
